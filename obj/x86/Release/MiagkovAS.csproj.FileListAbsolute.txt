@@ -1,0 +1,9 @@
+C:\Users\alexm\source\repos\MiagkovAS\MiagkovAS\bin\x86\Release\MiagkovAS.exe.config
+C:\Users\alexm\source\repos\MiagkovAS\MiagkovAS\bin\x86\Release\MiagkovAS.exe
+C:\Users\alexm\source\repos\MiagkovAS\MiagkovAS\bin\x86\Release\MiagkovAS.pdb
+C:\Users\alexm\source\repos\MiagkovAS\MiagkovAS\obj\x86\Release\MiagkovAS.csprojAssemblyReference.cache
+C:\Users\alexm\source\repos\MiagkovAS\MiagkovAS\obj\x86\Release\MiagkovAS.Form1.resources
+C:\Users\alexm\source\repos\MiagkovAS\MiagkovAS\obj\x86\Release\MiagkovAS.Properties.Resources.resources
+C:\Users\alexm\source\repos\MiagkovAS\MiagkovAS\obj\x86\Release\MiagkovAS.csproj.GenerateResource.cache
+C:\Users\alexm\source\repos\MiagkovAS\MiagkovAS\obj\x86\Release\MiagkovAS.exe
+C:\Users\alexm\source\repos\MiagkovAS\MiagkovAS\obj\x86\Release\MiagkovAS.pdb

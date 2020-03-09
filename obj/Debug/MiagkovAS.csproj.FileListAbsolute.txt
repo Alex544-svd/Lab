@@ -1,0 +1,13 @@
+E:\С#\MiagkovAS\bin\Debug\MiagkovAS.exe.config
+E:\С#\MiagkovAS\obj\Debug\MiagkovAS.Form1.resources
+E:\С#\MiagkovAS\obj\Debug\MiagkovAS.Properties.Resources.resources
+E:\С#\MiagkovAS\obj\Debug\MiagkovAS.csproj.GenerateResource.Cache
+E:\С#\MiagkovAS\bin\Debug\MiagkovAS.exe
+E:\С#\MiagkovAS\bin\Debug\MiagkovAS.pdb
+E:\С#\MiagkovAS\bin\Debug\InTheHand.Net.Personal.dll
+E:\С#\MiagkovAS\bin\Debug\InTheHand.Net.Personal.xml
+E:\С#\MiagkovAS\obj\Debug\MiagkovAS.exe
+E:\С#\MiagkovAS\obj\Debug\MiagkovAS.pdb
+E:\С#\MiagkovAS\obj\Debug\MiagkovAS.csprojAssemblyReference.cache
+E:\С#\MiagkovAS\obj\Debug\MiagkovAS.csproj.CoreCompileInputs.cache
+E:\С#\MiagkovAS\obj\Debug\MiagkovAS.csproj.CopyComplete
